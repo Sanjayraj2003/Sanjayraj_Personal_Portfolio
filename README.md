@@ -1,6 +1,6 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+👋 Welcome to my GitHub portfolio! I'm Sanjayraj, a passionate computer science and business systems student currently in my third year. With a keen interest in leveraging data to drive insights and decision-making, this repository serves as a showcase of my skills, projects, and contributions in the field of data analytics.
 
 ### [live preview](https://sanjayrajportfolio.netlify.app/)
 
