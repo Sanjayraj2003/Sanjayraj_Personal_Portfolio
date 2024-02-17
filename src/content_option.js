@@ -85,7 +85,7 @@ const dataportfolio = [{
     {
         img: "https://e1.pxfuel.com/desktop-wallpaper/430/176/desktop-wallpaper-lemon-juice.jpg",
         description: "Online Juice Order",
-        link: "https://www.figma.com/proto/4wKBIC5vCvYTF1ha5uNumb/Drinks?page-id=0%3A1&type=design&node-id=233-2&viewport=607%2C131%2C0.11&t=4Mz6oT6mn9mSSyuD-1&scaling=contain&mode=design",
+        link: "https://www.figma.com/proto/4wKBIC5vCvYTF1ha5uNumb/Drinks?page-id=0%3A1&type=design&node-id=233-2&viewport=607%2C131%2C0.11&t=EAMZD4PPblnlX9G4-1&scaling=contain&mode=design",
     },
 ];
 
